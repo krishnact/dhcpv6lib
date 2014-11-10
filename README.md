@@ -29,8 +29,9 @@ mvn -f pom2.xml exec:java -Dexec.args="path to pacp file.pcap"
 
 To execute it.
 
-  The library is missing <Your missing Option> option, why is that so?
-Because I do not know anything about it. If you send me te format and I have spare time I will add it.
+  The library is missing so-and-so option, why is that so?
+  
+Because I do not know anything about it. If you send me the format and I have spare time I will add it or you are welcome to add it.
 
   I have found a bug, can you fix it?
 Send me an email about it, I will look at it.
